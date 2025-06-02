@@ -1,5 +1,5 @@
 
-// Sistema de Guerra entre Reinos (RvR) - WYD
+// Sistema de Guerra entre Reinos (RvR) - WYD - Criado por Wilian Ferreira
 
 int ProcessSecTimer_DecideWinnerByMemberOnlineInRvR();
 void ClearArea_RVR(int WinnerReino);
